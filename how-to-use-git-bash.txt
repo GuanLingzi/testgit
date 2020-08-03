@@ -1,0 +1,5 @@
+修改：
+git add 文件名
+git commit -m "注释"
+查看：
+cat 文件名
