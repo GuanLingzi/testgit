@@ -1,11 +1,21 @@
 首先：
 cd ~/Desktop/git/testgit
+
 修改：
 git add 文件名
 git commit -m "注释"
+
 查看：
 cat 文件名
 上传到GitHub：
 git push -u origin master
+
+添加新的库：
+在GitHub上新建库并把网页复制下来
+在本地库中也新建一个相同名字的文件夹
+cd ~/Desktop/git/库名称
+git remote add 名称 网页
+git init
+git add README.md
 
 注：上传前先执行修改命令！！！
