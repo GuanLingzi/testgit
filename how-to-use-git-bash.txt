@@ -1,3 +1,5 @@
+首先：
+cd ~/Desktop/git/testgit
 修改：
 git add 文件名
 git commit -m "注释"
