@@ -7,6 +7,7 @@ git commit -m "注释"
 
 查看：
 cat 文件名
+
 上传到GitHub：
 git push -u origin master
 
