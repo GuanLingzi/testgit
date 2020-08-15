@@ -9,7 +9,7 @@ git commit -m "注释"
 cat 文件名
 
 上传到GitHub：
-git push -u origin master
+git push -u (name(origin)) (分支)
 
 添加新的库：
 在GitHub上新建库并把网页复制下来
